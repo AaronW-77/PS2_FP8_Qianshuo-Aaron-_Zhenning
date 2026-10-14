@@ -1,4 +1,4 @@
-[![PS2 project overview: allocation problem, three mechanisms, welfare framework, and synthetic simulation results](assets/project-overview.png)](assets/project-overview.png)
+[![PS2 project overview: allocation problem, three mechanisms, welfare framework, and synthetic simulation results](project-overview.png)](project-overview.png)
 
 # FP8 · Session D · PS2 Computational Artifact
 
