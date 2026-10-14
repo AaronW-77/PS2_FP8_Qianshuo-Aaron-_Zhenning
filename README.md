@@ -11,7 +11,7 @@ This repository implements **Section 3**, using the one-batch model in Section 2
 ## Final release and canonical repository
 
 Canonical course repository:
-https://github.com/dku-comsci-econ206-Autumn2026/PS2_Qianshuo_Zhenning
+https://github.com/dku-comsci-econ206-Autumn2026/PS2_FP8_Qianshuo_Zhenning
 
 Notebook: 
 [https://github.com/dku-comsci-econ206-Autumn2026/PS2_Qianshuo_Zhenning/blob/main/PS2_Code.ipynb](https://colab.research.google.com/drive/1I-J52wxGaAIwJK_LjtghBnXS2GxY0U2V#scrollTo=QI1TUTULTNPj)
@@ -21,10 +21,6 @@ https://huggingface.co/spaces/dku-comsci-econ206-2026/PS2_Qianshuo_Zhenning
 
 A0 Poster:
 https://canva.link/vlx5ljli23z7qk8
-
-Final tested commit:
-`[FINAL SHA]`
-
 
 
 ## Run and verify
