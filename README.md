@@ -144,19 +144,19 @@ Do not remove the embedded preview from the root README.
 
 | Artifact | Access | Status |
 |---|---|---|
-| **Canonical GitHub Repository** | This repository | ✅ Current |
-| **Computational Notebook** | [Open in Google Colab](https://colab.research.google.com/drive/1I-J52wxGaAIwJK_LjtghBnXS2GxY0U2V) | ✅ Runnable |
-| **Archived Notebook** | [`PS2_Code.ipynb`](PS2_Code.ipynb) | ✅ Available |
-| **Hugging Face Space** | [Open behavioral interface](https://huggingface.co/spaces/dku-comsci-econ206-2026/PS2_Qianshuo_Zhenning) | ✅ Available |
-| **Core Simulation** | [`simulation.py`](simulation.py) | ✅ Available |
-| **Mechanism Tests** | [`test_simulation.py`](test_simulation.py) | ✅ Available |
-| **Reproduction Script** | [`verify_reproduction.py`](verify_reproduction.py) | ✅ Available |
-| **Verification Record** | [`verification.txt`](verification.txt) | ✅ Available |
-| **Primary Summary** | [`primary_summary.csv`](primary_summary.csv) | ✅ Available |
-| **Fresh Run Metadata** | [`fresh_run.json`](fresh_run.json) | ✅ Available |
-| **Final Paper** | Repository copy to be added | ⏳ Pending |
-| **Final A0 Poster** | PDF + PNG + editable PPTX to be added | ⏳ Pending |
-| **Final Tested Release** | Commit/tag to be recorded | ⏳ Pending |
+| **Canonical GitHub Repository** | This repository | Current |
+| **Computational Notebook** | [Open in Google Colab](https://colab.research.google.com/drive/1I-J52wxGaAIwJK_LjtghBnXS2GxY0U2V) | Runnable |
+| **Archived Notebook** | [`PS2_Code.ipynb`](PS2_Code.ipynb) | Available |
+| **Hugging Face Space** | [Open behavioral interface](https://huggingface.co/spaces/dku-comsci-econ206-2026/PS2_Qianshuo_Zhenning) | Available |
+| **Core Simulation** | [`simulation.py`](simulation.py) | Available |
+| **Mechanism Tests** | [`test_simulation.py`](test_simulation.py) | Available |
+| **Reproduction Script** | [`verify_reproduction.py`](verify_reproduction.py) | Available |
+| **Verification Record** | [`verification.txt`](verification.txt) | Available |
+| **Primary Summary** | [`primary_summary.csv`](primary_summary.csv) | Available |
+| **Fresh Run Metadata** | [`fresh_run.json`](fresh_run.json) | Available |
+| **Final Paper** | Repository copy to be added | Pending |
+| **Final A0 Poster** | PDF + PNG + editable PPTX to be added | Pending |
+| **Final Tested Release** | Commit/tag to be recorded | Pending |
 
 ---
 
