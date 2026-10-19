@@ -7,7 +7,7 @@
 **Qianshuo (Aaron) Wang · Zhenning Wang**  
 COMSCI/ECON 206 · Computational Microeconomics  
 Professor Luyao Zhang · Duke Kunshan University · Autumn 2026  
-**Team FP08**
+**Team FP8**
 
 **Baseline finding:** Across 1,000 matched synthetic batches, the hybrid mechanism
 increases modeled welfare by **+9.78** at $\lambda=1$, but strictly improves welfare
