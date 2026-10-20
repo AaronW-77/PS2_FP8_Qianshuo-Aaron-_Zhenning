@@ -21,6 +21,17 @@ in only **43.8%** of batches.
 </div>
 
 ---
+## Final Presentation Poster
+
+![Final presentation poster](poster/final-poster.png)
+
+[**View the full A0 poster (PDF)**](poster/final-poster.pdf)
+
+The final poster presents our research question, mechanism design, computational evidence, robustness checks, intellectual merits, practical impacts, and future research roadmap.
+
+**Format:** A0 landscape (1189 × 841 mm)
+
+---
 
 > [!IMPORTANT]
 > ### Conditional result — not universal dominance
