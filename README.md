@@ -16,6 +16,8 @@ in only **43.8%** of batches.
 <p align="center">
   <a href="https://colab.research.google.com/drive/1I-J52wxGaAIwJK_LjtghBnXS2GxY0U2V"><img src="https://img.shields.io/badge/COLAB-RUN-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=orange" alt="Open in Colab"></a>
   <a href="https://huggingface.co/spaces/dku-comsci-econ206-2026/PS2_Qianshuo_Zhenning"><img src="https://img.shields.io/badge/HUGGING_FACE-DEMO-FFD21E?style=for-the-badge&logo=huggingface&logoColor=yellow" alt="Hugging Face"></a>
+  <a href="poster/final-poster.pdf">
+    <img src="https://img.shields.io/badge/POSTER-PDF-blue?style=for-the-badge" alt="Final Poster PDF"></a>
 </p>
 
 </div>
