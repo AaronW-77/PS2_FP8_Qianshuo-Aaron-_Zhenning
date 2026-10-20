@@ -23,9 +23,9 @@ in only **43.8%** of batches.
 ---
 ## Final Presentation Poster
 
-![Final presentation poster](poster/final-poster.png)
+![Final presentation poster](poster/FP08_Final_A0_Poster.png)
 
-[**View the full A0 poster (PDF)**](poster/final-poster.pdf)
+[**View the full A0 poster (PDF)**](poster/FP08_Final_A0_Poster.pdf)
 
 The final poster presents our research question, mechanism design, computational evidence, robustness checks, intellectual merits, practical impacts, and future research roadmap.
 
